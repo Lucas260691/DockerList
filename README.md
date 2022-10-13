@@ -1,4 +1,4 @@
-<h1 align="center">Docker Todo-List</h1>
+<h1 align="center">DockerList</h1>
 
 ## Descrição do Projeto
 <p align="center"> O objetivo desse projeto é "conteinerizar" as aplicações de frontend, backend e testes, criando uma conexão entre elas</p>
